@@ -1,2 +1,3 @@
 # CLI_CHAT
-we can make chat on terminal!!!!
+A chat where we can talk using only in our Terminal/command Prompt.
+Run the "client.py"
